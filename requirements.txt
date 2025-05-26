@@ -1,0 +1,9 @@
+pytz
+statsmodel
+darts
+jupyter
+matplotlib
+numpy
+pandas
+sklearn
+scipy
